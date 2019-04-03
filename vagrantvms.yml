@@ -1,0 +1,15 @@
+---
+- name: ubuntu1804-desktop
+  box: peru/ubuntu-18.04-desktop-amd64
+  mem: 1024
+  cpus: 1
+
+# - name: windows10-desktop
+#   box: peru/windows-10-enterprise-x64-eval
+#   mem: 1024
+#   cpus: 1
+
+# - name: macos1014-desktop
+#   box: ashiq/osx-10.14
+#   mem: 1024
+#   cpus: 1
